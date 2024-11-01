@@ -1,6 +1,6 @@
 <?php
 
-namespace LarawireGarage\Livepinestrap;
+namespace LarawireGarage\Blades;
 
 use Illuminate\Support\ServiceProvider;
 
