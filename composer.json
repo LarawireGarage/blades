@@ -1,0 +1,25 @@
+{
+    "name": "larawire-garage/blades",
+    "description": "Livewire + Alpinejs + Blade Components for Bootstrap,Tailwind Frameworks",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LarawireGarage\\Blades\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nirmal",
+            "email": "88931913+LarawireGarage@users.noreply.github.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LarawireGarage\\Blades\\BladesServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
